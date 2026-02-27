@@ -7,6 +7,10 @@ REACT
 NODE JS
 EXPRESS JS
 MONGO DB
-GIT
+GIT 
 
 Why don't you hire me?
+
+ 
+Yes You can hire me.!
+
