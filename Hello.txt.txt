@@ -1,1 +1,10 @@
 Hello, I am a Professional MERN STACK Developer. My name is Karthika.
+Skills:
+HTML
+CSS
+JAVASCRIPT
+REACT
+NODE JS
+EXPRESS JS
+MONGO DB
+GIT
